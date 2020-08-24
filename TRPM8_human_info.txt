@@ -1,0 +1,82 @@
+###UNIPROT INFORMATION FOR TRPM8###
+
++ ACCESSION: Q7Z2W7
++ UNIPROT ENTRY: TRPM8_HUMAN
++ ORGANISM: Homo sapiens (Taxon 9606)
++ SECONDARY ACCESSIONS: A0AVG2 Q3YFM7 Q6QNH9 Q8TAC3 Q8TDX8 Q9BVK1 
++ PROTEIN NAME: Transient receptor potential cation channel subfamily M member 8
+
++ FUNCTION: Receptor-activated non-selective cation channel involved in detection of sensations such as coolness, by being activated by cold temperature below 25 degrees Celsius. Activated by icilin, eucalyptol, menthol, cold and modulation of intracellular pH. Involved in menthol sensation. Permeable for monovalent cations sodium, potassium, and cesium and divalent cation calcium. Temperature sensing is tightly linked to voltage-dependent gating. Activated upon depolarization, changes in temperature resulting in graded shifts of its voltage-dependent activation curves. The chemical agonist menthol functions as a gating modifier, shifting activation curves towards physiological membrane potentials. Temperature sensitivity arises from a tenfold difference in the activation energies associated with voltage-dependent opening and closing. In prostate cancer cells, shows strong inward rectification and high calcium selectivity in contrast to its behavior in normal cells which is characterized by outward rectification and poor cationic selectivity. Plays a role in prostate cancer cell migration (PubMed:25559186). Isoform 2 and isoform 3 negatively regulate menthol- and cold-induced channel activity by stabilizing the closed state of the channel
+- REFERENCES: 
+> http://www.ncbi.nlm.nih.gov/pubmed/15306801
+> http://www.ncbi.nlm.nih.gov/pubmed/16174775
+> http://www.ncbi.nlm.nih.gov/pubmed/22128173
+> http://www.ncbi.nlm.nih.gov/pubmed/25559186
+
++ SUBUNIT: Homotetramer (By similarity). Isoform 2 and isoform 3 interact with the C-terminus of isoform 1 in a thermosensitive manner with decreased interaction at 21 degrees Celsius compared to 37 degrees Celsius. Interacts (via N-terminus and C-terminus domains) with TCAF1; the interaction stimulates TRPM8 channel activity (PubMed:25559186). Interacts (via N-terminus and C-terminus domains) with TCAF2 isoform 2; the interaction inhibits TRPM8 channel activity (PubMed:25559186)
+- REFERENCES: 
+> http://www.ncbi.nlm.nih.gov/pubmed/22128173
+> http://www.ncbi.nlm.nih.gov/pubmed/25559186
+
++ SUBCELLULAR_LOCATION: Localizes to membrane rafts but is also located in the cell membrane outside of these regions where channel response to cold is enhanced compared to membrane rafts (By similarity). Located in the endoplasmic reticulum in prostate cancer cells
+
++ TISSUE_SPECIFICITY: Expressed in prostate. Also expressed in prostate tumors and in non-prostatic primary tumors such as colon, lung, breast and skin tumors
+- REFERENCES: 
+> http://www.ncbi.nlm.nih.gov/pubmed/11325849
+> http://www.ncbi.nlm.nih.gov/pubmed/12858355
+> http://www.ncbi.nlm.nih.gov/pubmed/16174775
+> http://www.ncbi.nlm.nih.gov/pubmed/22128173
+
++ DOMAIN: The coiled coil region is required for multimerization
+- REFERENCES: 
+> http://www.ncbi.nlm.nih.gov/pubmed/17065148
+> http://www.ncbi.nlm.nih.gov/pubmed/25559186
+
++ MISCELLANEOUS: The sensation of coolness triggered by eucalyptol or menthol may be explained by the fact that menthol and cool temperatures sensations are detected by this protein
+
++ MISCELLANEOUS: Its expression in most prostate tumors as well as the presence of an immunogenic epitope suggest that it may be suitable for the design of peptide vaccination strategies for prostate cancers
+
++ SIMILARITY: Belongs to the transient receptor (TC 1.A.4) family. LTrpC subfamily. TRPM8 sub-subfamily
+
++ CAUTION: The 192-residue sequence submitted as AAS45276 has been confirmed by the authors of PubMed:22128173 to be incorrect as translation starts from a downstream methionine
+
++ CHAIN LENGTH: 1104 residues
+
++ DOMAINS: 
+> 1..691: Cytoplasmic
+> 692..712: Transmembrane - Helical; Name=1
+> 713..734: Extracellular
+> 735..755: Transmembrane - Helical; Name=2
+> 756..759: Cytoplasmic
+> 760..780: Transmembrane - Helical; Name=3
+> 781..794: Extracellular
+> 795..815: Transmembrane - Helical; Name=4
+> 816..829: Cytoplasmic
+> 830..850: Transmembrane - Helical; Name=5
+> 851..958: Extracellular
+> 959..979: Transmembrane - Helical; Name=6
+> 980..1104: Cytoplasmic
+
+
++ TRPM8 CANNONICAL PROTEIN SEQUENCE, FASTA FORMAT:
+>UNIPROT:TRPM8_HUMAN Q7Z2W7 Transient receptor potential cation channel subfamily M member 8 (Long transient receptor potential channel 6) (LTrpC-6) (LTrpC6) (Transient receptor potential p8) (Trp-p8)
+MSFRAARLSMRNRRNDTLDSTRTLYSSASRSTDLSYSESDLVNFIQANFKKRECVFFTKD
+SKATENVCKCGYAQSQHMEGTQINQSEKWNYKKHTKEFPTDAFGDIQFETLGKKGKYIRL
+SCDTDAEILYELLTQHWHLKTPNLVISVTGGAKNFALKPRMRKIFSRLIYIAQSKGAWIL
+TGGTHYGLMKYIGEVVRDNTISRSSEENIVAIGIAAWGMVSNRDTLIRNCDAEGYFLAQY
+LMDDFTRDPLYILDNNHTHLLLVDNGCHGHPTVEAKLRNQLEKYISERTIQDSNYGGKIP
+IVCFAQGGGKETLKAINTSIKNKIPCVVVEGSGQIADVIASLVEVEDALTSSAVKEKLVR
+FLPRTVSRLPEEETESWIKWLKEILECSHLLTVIKMEEAGDEIVSNAISYALYKAFSTSE
+QDKDNWNGQLKLLLEWNQLDLANDEIFTNDRRWESADLQEVMFTALIKDRPKFVRLFLEN
+GLNLRKFLTHDVLTELFSNHFSTLVYRNLQIAKNSYNDALLTFVWKLVANFRRGFRKEDR
+NGRDEMDIELHDVSPITRHPLQALFIWAILQNKKELSKVIWEQTRGCTLAALGASKLLKT
+LAKVKNDINAAGESEELANEYETRAVELFTECYSSDEDLAEQLLVYSCEAWGGSNCLELA
+VEATDQHFIAQPGVQNFLSKQWYGEISRDTKNWKIILCLFIIPLVGCGFVSFRKKPVDKH
+KKLLWYYVAFFTSPFVVFSWNVVFYIAFLLLFAYVLLMDFHSVPHPPELVLYSLVFVLFC
+DEVRQWYVNGVNYFTDLWNVMDTLGLFYFIAGIVFRLHSSNKSSLYSGRVIFCLDYIIFT
+LRLIHIFTVSRNLGPKIIMLQRMLIDVFFFLFLFAVWMVAFGVARQGILRQNEQRWRWIF
+RSVIYEPYLAMFGQVPSDVDGTTYDFAHCTFTGNESKPLCVELDEHNLPRFPEWITIPLV
+CIYMLSTNILLVNLLVAMFGYTVGTVQENNDQVWKFQRYFLVQEYCSRLNIPFPFIVFAY
+FYMVVKKCFKCCCKEKNMESSVCCFKNEDNETLAWEGVMKENYLVKINTKANDTSEEMRH
+RFRQLDTKLNDLKGLLKEIANKIK
+

@@ -1,0 +1,13 @@
+Type	Position	Effect	Reference
+REGION	187-195	Epitope; activates specific cytotoxic T lymphocytes	
+CARBOHYD	934	N-linked (GlcNAc...) (complex) asparagine	http://www.ncbi.nlm.nih.gov/pubmed/17065148
+VARIANT	T247	in dbSNP:rs13004520	
+VARIANT	C251	in dbSNP:rs17868387	
+VARIANT	N419	in dbSNP:rs7593557	
+VARIANT	T462	in dbSNP:rs28902173	
+VARIANT	I732	in dbSNP:rs17862932	
+VARIANT	S821	in dbSNP:rs28902201	
+MUTAGEN	821	No effect on glycosylation or ability to form functional channels.	http://www.ncbi.nlm.nih.gov/pubmed/17065148
+MUTAGEN	934	Abolishes glycosylation.	http://www.ncbi.nlm.nih.gov/pubmed/17065148
+MUTAGEN	946	No effect on glycosylation or channel activity.	http://www.ncbi.nlm.nih.gov/pubmed/17065148
+MUTAGEN	1089	Abolishes multimerization and channel activity. Reduces cell surface expression.	http://www.ncbi.nlm.nih.gov/pubmed/17065148
